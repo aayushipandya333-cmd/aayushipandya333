@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayushi Pandya</h1>
 
 <h3 align="center">
-🏅 Gold Medalist | President Awardee <br>
-💻 Software Engineer | Python Developer | AI/ML Enthusiast
+🏅 Gold Medalist | President Awardee | GATE Qualified<br>
+💻 Software Engineer | Python Developer | Java Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -13,9 +13,9 @@ Passionate about building scalable backend applications, solving real-world prob
 
 ## 🚀 About Me
 
-- 🎓 Gold Medalist & President Awardee
+- 🎓 Gold Medalist, GATE Qualified, President Awardee
 - 💼 Software Engineer
-- 🌱 Currently learning **Machine Learning, FastAPI, Backend Development, and System Design**
+- 🌱 Currently learning **Machine Learning, FastAPI, Artificial Intelligence**
 - 💻 Strong in **Python, Java, Git, GitHub, SQL, and Data Structures & Algorithms**
 - 🤝 Open to collaborating on Python and AI/ML projects
 - 🎯 Goal: Become an AI & Backend Engineer

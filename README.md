@@ -8,7 +8,7 @@
 <h3 align="center">🏅 Gold Medalist | 🏆 President Awardee | 🎓 GATE Qualified | 💻 Java/Python Developer | 🤖 AI/ML Enthusiast | ⚙️ Backend Developer | 🧩 Problem Solver | 📚 Data Structures & Algorithms</h3>
 
 <p align="center">
-  <a href="aayushipandya333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aayushipandya333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aayushi-pandya-934383186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="Aayushi Resume.pdf"><img src="https://img.shields.io/badge/📄_View_My_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=aayushipandya333-cmd&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
@@ -16,103 +16,102 @@
 
 ---
 
-### 🎯 The Value I Deliver to Overseas Clients
+### 🌟 The Value I Bring
 
-> "I don't just write code—I architect AI-driven solutions that cut operational costs, automate decision-making, and scale effortlessly across the globe."
+> "I enjoy solving real-world problems through clean, efficient code and continuously expanding my expertise in Java, Python, AI/ML, and backend development."
 
-| *Business Outcome* | *How I Deliver It* |
-| :--- | :--- |
-| ⚡ *Reduce Support Costs by 40%+* | Build multi-agent chatbots with *LangGraph* that handle complex queries autonomously. |
-| 📈 *Unlock Unstructured Data* | Implement *RAG (Retrieval-Augmented Generation)* pipelines to turn PDFs, emails, and databases into actionable insights. |
-| 🚀 *Accelerate Time-to-Market* | Leverage *MERN + .NET* with pre-built AI microservices to ship full-stack features in record time. |
-| ☁️ *Ensure Global Scalability* | Design cloud-native systems on *AWS* with Docker/Kubernetes, ensuring 99.9% uptime for international users. |
-| 🔒 *Enterprise-Grade Security* | Implement robust authentication, data encryption, and audit trails suitable for FinTech and Healthcare. |
 
 ---
 
-### 🧠 Core Competencies (The AI-Native Stack)
+### 🧠 Core Competencies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_&_Agentic_Frameworks-00D4FF?style=for-the-badge&logo=ai&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_(Vector_DBs)-008080?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_&_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Programming_Languages-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Engineering-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud_&_DevOps-2496ED?style=for-the-badge&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence_&_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSTM-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARIMA-1565C0?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databases_&_Tools-4CAF50?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Technologies-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Featured Client Projects (Case Studies)
+### 🚀 Featured Projects
 
-> These are real-world impacts I've delivered. Replace the metrics & links with your own.
-
-| Project | Client Context | My AI-First Solution | Measurable Impact |
+| Project | Description | Technologies | Highlights |
 | :--- | :--- | :--- | :--- |
-| *🧠 Enterprise Knowledge Assistant* | A Fortune 500 logistics firm struggled to search through 50k+ operational PDFs. | Built a *RAG pipeline* using LangChain, Pinecone, and OpenAI. Integrated with a React dashboard for instant semantic search. | *↓ 70%* time spent searching docs. *↑ 30%* operational efficiency. |
-| *🤖 Multi-Agent Support System* | A global EdTech platform needed 24/7 multilingual student support without hiring 100+ new agents. | Architected a *LangGraph* multi-agent system where agents (Triage, Content, Billing) collaborate to resolve tickets. Deployed on AWS ECS. | *↓ 45%* support tickets. *↑ 25%* CSAT score. *$200k* annual savings. |
-| *⚡ AI-Powered Code Migration Tool* | A legacy .NET client needed to migrate to Node.js microservices safely. | Created an *AI-assisted code analyzer* using AST parsing and LLMs to generate migration roadmaps and boilerplate code. | *↓ 60%* migration time. Zero critical bugs in production. |
-| *📊 Predictive Analytics Dashboard* | A FinTech startup required real-time fraud detection visuals. | Engineered a *D3.js + React* dashboard consuming real-time streams from a GraphQL API, with AI anomaly detection. | *↓ 50%* fraud investigation time. Secured *$5M* in investor funding for the client. |
+| 🛒 **Shoppers** | Developed backend functionalities for an e-commerce application with features for product management and user interactions. | Java, HTML, CSS, Bootstrap | ✔ Backend Development<br>✔ Database Integration<br>✔ Team Project |
+| 🎓 **RBT – Student Service Platform** | Built a platform that helps students find accommodation, books, and tiffin services through a centralized system. | Java, HTML, CSS | ✔ Backend Development<br>✔ Service Management<br>✔ Team Collaboration |
+| 📈 **Stock Market Prediction using ARIMA-LSTM** | Designed a hybrid forecasting model combining ARIMA and LSTM neural networks to improve stock market prediction accuracy. | Python, ARIMA, LSTM, Machine Learning | ✔ Data Analysis<br>✔ Time Series Forecasting<br>✔ AI/ML Research |
 
 ---
 
-### 💼 How I Work (Client-Ready Processes)
+## 🚀 What You'll Find in My Work
 
-- 🌍 *Global Timezone Friendly: Based in **UTC+5:30* but maintain *overlapping hours with EST/PST/UK* for daily stand-ups and sprint reviews.
-- 📋 *Agile & Transparent*: Daily updates, Jira/Linear tracking, and Figma prototypes before writing a single line of code.
-- 🔧 *Modern CI/CD*: Automated testing (Jest, PyTest), Dockerized environments, and blue-green deployments to minimize downtime.
-- 🧪 *Quality First*: 90%+ test coverage, thorough documentation, and post-deployment monitoring (CloudWatch, Sentry).
+- 🐍 Well-structured Python and Java applications
+- ⚙️ Backend development with clean architecture
+- 📊 Machine Learning experiments and research projects
+- 📚 Strong focus on Data Structures & Algorithms
+- 🔍 Continuous exploration of new technologies
+- 💻 Hands-on learning through real-world projects
 
 ---
 
 ### 📊 GitHub Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navink&show_icons=true&count_private=true&hide_title=true&theme=github_dark&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navink&theme=github-dark-blue&background=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushipandya333-cmd&show_icons=true&count_private=true&hide_title=true&theme=github_dark&bg_color=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushipandya333-cmd&theme=github-dark-blue&background=0d1117&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navink&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=8" width="40%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=navink&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushipandya333-cmd&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushipandya333-cmd&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="45%" />
 </p>
-
----
-
-### 📝 Latest Technical Articles (Authored by Me)
-
-Sharing battle-tested insights on Agentic AI, MERN, and Cloud Architecture.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 📌 This feed automatically pulls my latest posts from Dev.to via a GitHub Action (already set up in the repo).
 
 ---
 
@@ -121,14 +120,8 @@ Sharing battle-tested insights on Agentic AI, MERN, and Cloud Architecture.
 I am currently *available for freelance consulting, contract roles, and full-time remote engagements* with overseas enterprises and innovative startups.
 
 <p align="center">
-  <a href="mailto:ncodify@gmail.com">
+  <a href="mailto:aayushipandya333@gmail.com">
     <img src="https://img.shields.io/badge/Send_me_a_Proposal-00D4FF?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://cal.com/[your-cal-link]" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule_a_30_Min_Call-000000?style=for-the-badge&logo=calendly&logoColor=white" />
-  </a>
-  <a href="https://navin-kukreja-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/View_Full_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 

@@ -10,8 +10,8 @@
 <p align="center">
   <a href="aayushipandya333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aayushi-pandya-934383186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="./resume.pdf"><img src="https://img.shields.io/badge/📄_View_My_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=navink&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
+  <a href="Aayushi Resume.pdf"><img src="https://img.shields.io/badge/📄_View_My_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aayushipandya333-cmd&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---

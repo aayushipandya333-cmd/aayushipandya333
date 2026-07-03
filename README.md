@@ -1,2 +1,5 @@
-# aayushipandya333
-🏅 Gold Medalist | 🏆 President Awardee | GATE Qualified | Java &amp; Python Developer | AI/ML Enthusiast | Backend Development | Data Structures &amp; Algorithms | Passionate Problem Solver
+# 👋 Hi, I'm Aayushi Pandya
+
+### Software Engineer | Python Developer | AI/ML Enthusiast
+
+I enjoy building backend applications, learning Machine Learning, and solving real-world problems through code.

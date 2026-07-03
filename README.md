@@ -2,4 +2,4 @@
 
 ### Software Engineer | Python Developer | AI/ML Enthusiast
 
-I enjoy building backend applications, learning Machine Learning, and solving real-world problems through code.
+I enjoy building backend applications, learning about Machine Learning concepts, and solving real-world problems through code.
